@@ -1,0 +1,19 @@
+{
+  "name": "fluid.flows",
+  "version": "1.0.0",
+  "description": "A data abstraction layer",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abarbaneld/fluid.flows.git"
+  },
+  "author": "Dan Abarbanel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abarbaneld/fluid.flows/issues"
+  },
+  "homepage": "https://github.com/abarbaneld/fluid.flows#readme"
+}
